@@ -45,7 +45,9 @@ Churn Customer Churn, True means churned customer, False means retained customer
 EXPLORATORY DATA ANALYSIS
 
 UNIVARIATE ANALYSIS
+
 BIVARIATE ANALYSIS
+
 MULTIVARIATE ANALYSIS
 
 5. Solution to Business Objective
