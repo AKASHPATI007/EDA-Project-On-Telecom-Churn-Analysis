@@ -41,6 +41,11 @@ Customer service calls: Number of customer service calls made by customer
 Churn Customer Churn, True means churned customer, False means retained customer
 
 
+FEATURE ENGINEERING----
+
+Removing duplicate and missing values
+Updating column
+
 
 EXPLORATORY DATA ANALYSIS
 
