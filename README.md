@@ -57,14 +57,14 @@ Solution to Business Objective
 
 **
 
-Focus on top churned state first.
-Area code have not that much role. we can neglect area code.
-Focus on customer who did'nt picked voice mail plan as there churning rate is high
-Improve customer service call centre responce may be customer query can't resolve that's why they were calling to customer again and again ande then churn
-Focus on customer who had taken international plan . Try to revise plan may reduce plan price little bit.
-Improve network connection, specially focus on top churned satates.
-Give some discount offer after certain min day call because as day call increase our churning rate is also increase and we were loosing our valuable customers.
-We did not able to analys any valuable information with account length.
+1. Focus on top churned state first.
+2. Area code have not that much role. we can neglect area code.
+3. Focus on customer who did'nt picked voice mail plan as there churning rate is high
+4. Improve customer service call centre responce may be customer query can't resolve that's why they were calling to customer again and again ande then churn
+5. Focus on customer who had taken international plan . Try to revise plan may reduce plan price little bit.
+6. Improve network connection, specially focus on top churned satates.
+7. Give some discount offer after certain min day call because as day call increase our churning rate is also increase and we were loosing our valuable customers.
+8. We did not able to analys any valuable information with account length.
 **
 
 Conclusion
